@@ -1,0 +1,11 @@
+* {
+  margin : 0;
+  padding: 0;
+}
+
+body {
+  height: auto;
+  width: 100%;
+  font-weight: bold !important ;
+  background-color: rgb(245, 244, 244);
+}

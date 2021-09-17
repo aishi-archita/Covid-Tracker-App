@@ -1,0 +1,46 @@
+.heading-information {
+    font-size: 1.2rem !important;
+    font-family: "Nunito";
+}
+
+.Countries-Stats{
+    height : auto;
+    width: 100%;
+    margin-top : 80px;
+}
+
+
+.countries-stats-heading{
+    font-weight: 700 !important;
+    font-family : 'Nunito';
+     text-align: center;
+    font-size: 2rem;
+}
+
+input , .sort-by{
+    display: inline-block;
+}
+
+
+
+/* .filtering{
+    height: 60px;
+    width : 60%;
+    margin: auto;
+    margin-top: 40px;
+
+}
+
+.filtering input{
+    height: 100%;
+    width : 70%;
+    padding-left: 25px;
+
+}
+
+.filtering .sort-by{
+    height : 100%;
+    width : calc(100% - 80%);
+    margin-left: 25px;
+    padding : 0 20px;
+} */

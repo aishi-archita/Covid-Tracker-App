@@ -1,0 +1,23 @@
+.flag{
+    width: 20%;
+}
+
+.flag p{
+    text-align: center;
+}
+tbody .count{
+    font-family: 'Nunito';
+    font-size: 1.2rem ;
+
+}
+
+tbody .yesterday{
+    color : #b5b5b5;
+    font-weight: 400;
+    font-size: 1rem;
+    font-family: 'Nunito';
+}
+
+.yesterday strong {
+    color: #3c3c3c;
+}
